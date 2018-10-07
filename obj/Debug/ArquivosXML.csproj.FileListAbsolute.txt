@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\bin\Debug\ArquivosXML.exe.config
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\bin\Debug\ArquivosXML.exe
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\bin\Debug\ArquivosXML.pdb
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\obj\Debug\ArquivosXML.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\obj\Debug\ArquivosXML.Form1.resources
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\obj\Debug\ArquivosXML.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\obj\Debug\ArquivosXML.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\obj\Debug\ArquivosXML.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\obj\Debug\ArquivosXML.exe
+C:\Users\Usuario\source\repos\ArquivosXML\ArquivosXML\obj\Debug\ArquivosXML.pdb
